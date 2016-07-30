@@ -8,4 +8,9 @@
  3.	Select the default instance type given and click “Preview and Launch” button. 
  ![screenshot 3](https://cloud.githubusercontent.com/assets/15711984/17271725/4a54facc-56a1-11e6-9c04-84639c0d6fb7.png)
 
+![screenshot 3](https://cloud.githubusercontent.com/assets/15711984/17271730/6ce857a0-56a1-11e6-9851-ae7c1b2e55b8.png)
+
+4.	Then after creating the instance next step is reviewing the instance created. Click the “Launch” button to continue. 
+
+
 
