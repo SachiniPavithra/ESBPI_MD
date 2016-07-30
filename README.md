@@ -105,6 +105,34 @@
 ![screenshot 59](https://cloud.githubusercontent.com/assets/15711984/17272026/772711f4-56a9-11e6-849e-eff5b7344339.png)
 2 Select MySql and click the select button 
 ![screenshot 61](https://cloud.githubusercontent.com/assets/15711984/17272033/9baa6620-56a9-11e6-833e-abd6deb0cb4c.png)
+![screenshot 62](https://cloud.githubusercontent.com/assets/15711984/17272040/d79d9ee0-56a9-11e6-9713-ef9c711c2fc0.png)
+
+3 Configure the settings given below
+
+![screenshot 64](https://cloud.githubusercontent.com/assets/15711984/17272047/f872322a-56a9-11e6-8fc1-39089a16e6e6.png)
+
+4 Configure the settings given below and Launch DB Instance
+![screenshot 65](https://cloud.githubusercontent.com/assets/15711984/17272054/1bb6813c-56aa-11e6-9324-d758ee2d800b.png)
+
+5. User can view the instance by clicking the “View Your DB instance” button 
+
+![screenshot 66](https://cloud.githubusercontent.com/assets/15711984/17272057/3a414574-56aa-11e6-8587-9ff7f12bebc1.png)
+
+6 User has to wait for few minutes.
+![screenshot 67](https://cloud.githubusercontent.com/assets/15711984/17272064/5ce8b99a-56aa-11e6-8860-2ca6ab0a0854.png)
+![screenshot 68](https://cloud.githubusercontent.com/assets/15711984/17272068/7bc16dda-56aa-11e6-8d93-0337085e6a9e.png)
+
+
+
+7.Finally user can login to the DB using the given user name and the password
+
+![screenshot 203](https://cloud.githubusercontent.com/assets/15711984/17272081/e04fb702-56aa-11e6-934b-e84749cf80e5.png)
+![screenshot 204](https://cloud.githubusercontent.com/assets/15711984/17272086/f125157c-56aa-11e6-9cad-a046a29f3c21.png)
+![screenshot 207](https://cloud.githubusercontent.com/assets/15711984/17272094/3abf1bf6-56ab-11e6-973b-85b53f406401.png)
+![screenshot 205](https://cloud.githubusercontent.com/assets/15711984/17272095/4b4a6d36-56ab-11e6-883a-5414a7d2b7cb.png)
+![screenshot 206](https://cloud.githubusercontent.com/assets/15711984/17272098/5d572f0a-56ab-11e6-9262-05aed43f0249.png)
+
+
 
 
 
